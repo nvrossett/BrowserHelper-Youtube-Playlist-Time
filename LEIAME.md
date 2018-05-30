@@ -1,7 +1,7 @@
 # Browser Helper
 ### Youtube Playlist Time
 
-[If you wanna read in english - click here](https://github.com/nvrossett/BrowserHelper-Youtube-Playlist-Time/blob/master/README.md)
+<!-- [If you wanna read in english - click here](https://github.com/nvrossett/BrowserHelper-Youtube-Playlist-Time/blob/master/README.md)
 
 Eu desenvolvi este código para ajudá-lo a calcular o tempo estimado para uma lista de reprodução no youtube para que você possa planejar seus estudos.
 
@@ -17,4 +17,4 @@ Para saber mais sobre como usar, veja o passo-a-passo no steemit.com e aprenda c
 
 Por favor, não se esqueça de se registrar com steem e dar o seu voto no post, você não gasta nada e isso pode me ajudar a financiar ainda mais soluções como essa no futuro.
 
-Obrigado e espero que seja útil para você.
+Obrigado e espero que seja útil para você. -->
